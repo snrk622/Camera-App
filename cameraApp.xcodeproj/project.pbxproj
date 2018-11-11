@@ -12,6 +12,7 @@
 		3C153DBF2196E1910081E201 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C153DBD2196E1910081E201 /* Main.storyboard */; };
 		3C153DC12196E1920081E201 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C153DC02196E1920081E201 /* Assets.xcassets */; };
 		3C153DC42196E1920081E201 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C153DC22196E1920081E201 /* LaunchScreen.storyboard */; };
+		3C153DCC219815FD0081E201 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C153DCB219815FD0081E201 /* EffectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3C153DC02196E1920081E201 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C153DC32196E1920081E201 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C153DC52196E1920081E201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C153DCB219815FD0081E201 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3C153DB92196E1910081E201 /* AppDelegate.swift */,
 				3C153DBB2196E1910081E201 /* ViewController.swift */,
+				3C153DCB219815FD0081E201 /* EffectViewController.swift */,
 				3C153DBD2196E1910081E201 /* Main.storyboard */,
 				3C153DC02196E1920081E201 /* Assets.xcassets */,
 				3C153DC22196E1920081E201 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				3C153DBC2196E1910081E201 /* ViewController.swift in Sources */,
 				3C153DBA2196E1910081E201 /* AppDelegate.swift in Sources */,
+				3C153DCC219815FD0081E201 /* EffectViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
